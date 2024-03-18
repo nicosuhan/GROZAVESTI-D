@@ -1,5 +1,10 @@
 # Camin Grozavesti D
 
+Acest proiect este o incursiune fascinantă în viața unui cămin universitar, oferind o simulare detaliată și 
+interactivă a dinamicii întâlnite acolo. Prin utilizarea conceptelor de programare orientată pe obiecte și 
+prin aplicarea principiilor solide de design al claselor în limbajul C++, acest proiect devine o modalitate 
+captivantă de a explora interacțiunile și relațiile dintre diferitele aspecte ale vieții de cămin.
+
 ### Important!
 Aveți voie cu cod generat de modele de limbaj la care nu ați contribuit semnificativ doar în folder-ul `generated`.
 Codul generat pus "ca să fie"/pe care nu îl înțelegeți se punctează doar pentru puncte bonus, doar în contextul
