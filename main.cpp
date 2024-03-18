@@ -152,7 +152,7 @@ public:
     //functie
     void dampetrcere()
     {
-        if (camera1.getAucursurimaine()=="nu au" and camera2.getAucursurimaine()=="nu au")
+        if (camera1.getAucursurimaine()=="nu au" && camera2.getAucursurimaine()=="nu au")
             std::cout<<"Se da petrecere la etajul "<<nretaj<<std::endl;
         else
             std::cout<<"Ne culcacam devreme ca maine avem cursuri "<<std::endl;
@@ -219,7 +219,7 @@ int main()
     caminist caminist7=caminist("Nistor Horia", 1, 8.53, "Matematica");
     caminist caminist8=caminist("Trifan Iustin", 1, 6.87, "CTI");
     caminist caminist9=caminist("Iovan Andrei", 1, 7.87, "CTI");
-    caminist as_vrea_sa_fiu_caminist_dar_nu_am_medie=caminist("Popescu Ion", 1, 5.70, "Matematica");
+    caminist as_vrea_sa_fiu_caminist_dar_nu_am_medie=caminist("Cristea Alexandru", 1, 5.70, "Informatica");
 
     camera camera335=camera(caminist1, caminist2, 2, 335, "nu au");
     camera camera321=camera(caminist3, caminist4, 2, 321, "nu au");
