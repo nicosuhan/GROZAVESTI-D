@@ -91,7 +91,34 @@ endfunction()
 
 # NOTE: update executable name in .github/workflows/cmake.yml:25 when changing name here
 add_executable(${PROJECT_NAME} main.cpp
-        generated/src/Helper.cpp)
+        generated/src/Helper.cpp
+        main.h
+        Caminist.cpp
+        Caminist.h
+        InvalidAn.cpp
+        InvalidAn.h
+        InvalidNota.cpp
+        InvalidNota.h
+        Invalidnrarticole.cpp
+        Invalidnrarticole.h
+        camera.cpp
+        camera.h
+        palier.cpp
+        palier.h
+        camin.cpp
+        camin.h
+        caministlicenta.cpp
+        caministlicenta.h
+        caministmaster.cpp
+        caministmaster.h
+        caministdoctorat.cpp
+        caministdoctorat.h
+        clasaderivata.cpp
+        clasaderivata.h
+        altaclasa.cpp
+        altaclasa.h
+        clasavirtuala.cpp
+        clasavirtuala.h)
 
 ###############################################################################
 
