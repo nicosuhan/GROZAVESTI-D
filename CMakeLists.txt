@@ -118,7 +118,16 @@ add_executable(${PROJECT_NAME} main.cpp
         altaclasa.cpp
         altaclasa.h
         clasavirtuala.cpp
-        clasavirtuala.h)
+        clasavirtuala.h
+        CameraFactory.cpp
+        CameraFactory.h
+        Prototype.cpp
+        Prototype.h
+        CaministDecorator.cpp
+        CaministDecorator.h
+        Generic.cpp
+        Generic.h
+        Generic.cpp)
 
 ###############################################################################
 
